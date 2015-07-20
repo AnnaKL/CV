@@ -19,7 +19,33 @@ During the 12 weeks at Makers Academy I have been exposed to challenges teaching
 During my 6 years long career in the medical laboratory I've transitioned from assistant to fully trained HCPC registered Biomedical Scientist. 
 
 - Learned a true meaning of comittment , teamwork and psychological resilience while going though a change of the laboratory's owner, building and IT system during the same period of time.
-- Proved to be disciplined and self-driven person during the preparation and by passing the BBTS Specialist Certificate in Transfusion Science Practice.
-- Contributed to writing Standard Operation Procedures and annual audits.
+- Proved to be disciplined and self-driven person during the preparation and by passing the BBTS Specialist Certificate in Transfusion Science Practice exam.
+- Contributed to writing the Standard Operation Procedures and annual audits.
 - Helped to provide continuous and high quality service to patients.
+
+
+## Education
+
+#### Makers Academy (April 2015 to July 2015)
+
+- Highly intensive 12 week course focused on teaching independent learning  
+  and problem solving
+- Methodologies: OOP, TDD, SOLID, MVC, DDD, BDD, Agile development and  
+  Software Craftsmanship
+- Languages/Frameworks: Ruby, Sinatra, Rails, Javascript, Angular.js
+- Testing Frameworks: Rspec, Jasmine, Cucumber, Capybara, Karma, Protractor
+- Mobile app development: Ionic, Cordova
+
+#### Westminster University (2011 to 2012)
+
+- Clinical Chemistry, Cellular Pathology, Haematology and Blood 
+  Transfusion modules required by HCPC to obtain a registration.
+
+#### Wroclaw University, Poland (2007 to 2009)
+
+- Master of Science - Microbiology
+
+#### Wroclaw University, Poland (2004 to 2007)
+
+- Bachelor's degree - Biology
 
