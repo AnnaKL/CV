@@ -49,3 +49,18 @@ During my 6 years long career in the medical laboratory I've transitioned from a
 
 - Bachelor's degree - Biology
 
+
+## Experience
+
+**Spire Healthcare, St John and St Elizabeth Hospital** (2014 to 2015)  
+*Biomedical Scientist*  
+
+**Spire Healthcare, St John and St Elizabeth Hospital** (2011 to 2014)  
+*Medical Laboratory Assistant* 
+
+**St John and St Elizabeth Hospital** (2010 to 2011)  
+*Medical Laboratory Assistant*   
+
+## Contact
+
+- anna.klimas@gmail.com
