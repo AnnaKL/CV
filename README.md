@@ -7,12 +7,12 @@ I'm currently looking for a passionate and creative team with a learning-friendl
 
 #### Programming
 
-During the 12 weeks at Makers Academy I have been exposed to challenges teaching the best practices and pair-programming providing supportive learning environment and improving teamwork skills. I've learned to build front and backend web and mobile appliactions in Ruby and Javascript by using TDD approach and a version control system(Git).
+During the 12 weeks at Makers Academy I have been exposed best practices and pair-programming providing supportive learning environment and improving teamwork skills. I've learned to build front-end and back-end web as well as mobile applications in Ruby and Javascript by using TDD approach and a version control system(Git).
 
-- [Errand_runner](https://github.com/AnnaKL/errand-runner-ionic): *Final project at Makers Academy. Frontend build in ionic -mobile app framework using Angular.js and GoogleMaps API. Backend API built in Ruby on Rails and hosted on Heroku. Tested in Rspec, Protractor and Karma*
+- [Errand_runner](https://github.com/AnnaKL/errand-runner-ionic): *Final project at Makers Academy. Front-end build in ionic mobile app framework using Angular.js and GoogleMaps API. Back-end API built in Ruby on Rails and hosted on Heroku. Tested in Rspec, Protractor and Karma*
 - [Instafun](https://github.com/AnnaKL/instagram-challenge): *Instagram clone application built in Ruby on Rails and tested in Rspec and Capybara*
 - [To do](https://github.com/AnnaKL/todo_challenge): *To do list application built in Angular.js and tested in Karma and Protractor.*
-- [Chitter](https://github.com/AnnaKL/chitter-challenge): *Twitter clone build in Ruby and Sinatra tested in Rspec and Capybara.*
+- [Chitter](https://github.com/AnnaKL/chitter-challenge): *Twitter clone application build in Ruby and Sinatra tested in Rspec and Capybara.*
 
 #### Biomedical Scientist
 
@@ -20,7 +20,7 @@ During my 6 years long career in the medical laboratory I've transitioned from a
 
 - Learned a true meaning of comittment , teamwork and psychological resilience while going though a change of the laboratory's owner, building and IT system during the same period of time.
 - Proved to be disciplined and self-driven person during the preparation and by passing the BBTS Specialist Certificate in Transfusion Science Practice exam.
-- Contributed to writing the Standard Operation Procedures and annual audits.
+- Written several Standard Operation Procedures and annual audits.
 - Helped to provide continuous and high quality service to patients.
 
 
