@@ -1,13 +1,13 @@
 ## Anna Klimas
 
-I'm an enthusiastic and self-driven recent Makers Academy graduate. A hard-working risk taker, who after successfull carrier as a Biomedical Scientist, decided to take a leap of faith and pursue an all time dream to learn to code. 
+I'm an enthusiastic and self-driven recent Makers Academy graduate. A hard-working risk taker, who after successfull career as a Biomedical Scientist, decided to take a leap of faith and pursue an all time dream to learn to code. 
 I'm currently looking for a passionate and creative team with a learning-friendly environment and exciting projects I could contribute to. 
 
 ## Skills
 
 #### Programming
 
-During the 12 weeks at Makers Academy I have been exposed best practices and pair-programming providing supportive learning environment and improving teamwork skills. I've learned to build front-end and back-end web as well as mobile applications in Ruby and Javascript by using TDD approach and a version control system(Git).
+During the 12 weeks at Makers Academy I have been exposed to best practices and pair-programming, providing supportive learning environment and improving teamwork skills. I've learned to build front-end and back-end web as well as mobile applications in Ruby and Javascript by using TDD approach and a version control system(Git).
 
 - [Errand_runner](https://github.com/AnnaKL/errand-runner-ionic): *Final project at Makers Academy. Front-end build in ionic mobile app framework using Angular.js and GoogleMaps API. Back-end API built in Ruby on Rails and hosted on Heroku. Tested in Rspec, Protractor and Karma*
 - [Instafun](https://github.com/AnnaKL/instagram-challenge): *Instagram clone application built in Ruby on Rails and tested in Rspec and Capybara*
@@ -28,7 +28,7 @@ During my 6 years long career in the medical laboratory I've transitioned from a
 
 #### Makers Academy (April 2015 to July 2015)
 
-- Highly intensive 12 week course focused on teaching independent learning  
+- Highly intensive 12 weeks course focused on teaching independent learning  
   and problem solving
 - Methodologies: OOP, TDD, SOLID, MVC, DDD, BDD, Agile development and  
   Software Craftsmanship
