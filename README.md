@@ -18,15 +18,9 @@ During the 12 weeks at Makers Academy I have been exposed to development best pr
 
 During my 6 years long career in a medical laboratory I've transitioned from assistant to fully trained HCPC registered Biomedical Scientist. 
 
-<<<<<<< HEAD
 - Learned a true meaning of comittment , teamwork and psychological resilience while going though a change of the laboratory's owner, building and IT system during the same period of time.
 - Proved to be disciplined and self-driven person during the preparation and by passing the BBTS Specialist Certificate in Transfusion Science Practice exam.
 - Written several annual audits and Health and Safety procedures, which were necessary to pass inspection and gain Clinical Pathology Accreditation CPA.
-=======
-- Learned the true meaning of comittment, teamwork and psychological resilience while going though a change of the laboratory's owner, location and IT systems during the same period of time.
-- Proved myself to be a disciplined and self-driven person during the preparation and by passing the BBTS Specialist Certificate in Transfusion Science Practice exam.
-- Written several Standard Operation Procedures and annual audits.
->>>>>>> 1fbe5f92c8b6a2102c009453e8d018a1ef559464
 - Helped to provide continuous and high quality service to patients.
 
 
