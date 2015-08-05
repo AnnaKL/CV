@@ -1,6 +1,6 @@
 ## Anna Klimas
 
-I'm an enthusiastic and self-driven recent Makers Academy graduate. A hard-working risk taker, who after a successfull career as a Biomedical Scientist decided to take a leap of faith and pursue an all time dream to learn to code. 
+I'm an enthusiastic and self-driven recent Makers Academy graduate. A hard-working risk taker, who after a successful career as a Biomedical Scientist decided to take a leap of faith and pursue an all time dream to learn to code. 
 I'm currently looking for a passionate and creative team with a learning-friendly environment and exciting projects I could contribute to. 
 
 ## Skills
@@ -18,7 +18,7 @@ During the 12 weeks at Makers Academy I have been exposed to development best pr
 
 During my 6 years long career in a medical laboratory I've transitioned from assistant to fully trained HCPC registered Biomedical Scientist. 
 
-- Learned a true meaning of comittment , teamwork and psychological resilience while going though a change of the laboratory's owner, building and IT system during the same period of time.
+- Learned a true meaning of commitment , teamwork and psychological resilience while going though a change of the laboratory's owner, building and IT system during the same period of time.
 - Proved to be disciplined and self-driven person during the preparation and by passing the BBTS Specialist Certificate in Transfusion Science Practice exam.
 - Written several annual audits and Health and Safety procedures, which were necessary to pass inspection and gain Clinical Pathology Accreditation CPA.
 - Helped to provide continuous and high quality service to patients.
