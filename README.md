@@ -16,7 +16,7 @@ During the 12 weeks at Makers Academy I have been exposed to development best pr
 
 #### Biomedical Scientist
 
-During my 6 years long career in a medical laboratory I've transitioned from assistant to fully trained HCPC registered Biomedical Scientist. 
+During my 5 years long career in a medical laboratory I've transitioned from assistant to fully trained HCPC registered Biomedical Scientist. 
 
 - Learned a true meaning of comittment , teamwork and psychological resilience while going though a change of the laboratory's owner, building and IT system during the same period of time.
 - Proved to be disciplined and self-driven person during the preparation and by passing the BBTS Specialist Certificate in Transfusion Science Practice exam.
@@ -52,10 +52,10 @@ During my 6 years long career in a medical laboratory I've transitioned from ass
 
 ## Experience
 
-**Spire Healthcare, St John and St Elizabeth Hospital** (2014 to 2015)  
+**Spire Healthcare, St John and St Elizabeth Hospital** (2013 to 2015)  
 *Biomedical Scientist*  
 
-**Spire Healthcare, St John and St Elizabeth Hospital** (2011 to 2014)  
+**Spire Healthcare, St John and St Elizabeth Hospital** (2011 to 2013)  
 *Medical Laboratory Assistant* 
 
 **St John and St Elizabeth Hospital** (2010 to 2011)  
