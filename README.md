@@ -31,7 +31,7 @@ During my 5 years long career in a medical laboratory I've transitioned from ass
 - Highly intensive 12 weeks course focused on nurturing independent learning  
   and problem solving
 - Methodologies: OOP, TDD, SOLID, MVC, DDD, BDD, Agile development and  
-  Software Craftsmanship
+  Software Craftsmanship, Pair Programming
 - Languages/Frameworks: Ruby, Sinatra, Rails, Javascript, Angular.js
 - Testing Frameworks: Rspec, Jasmine, Cucumber, Capybara, Karma, Protractor
 - Mobile app development: Ionic, Cordova
