@@ -9,7 +9,7 @@ I'm currently looking for a passionate and creative team with a learning-friendl
 
 During the 12 weeks at Makers Academy I have been exposed to development best practices and pair-programming, in an environment that nurtured my learning and teamwork skills. I've learned to build front-end and back-end web as well as mobile applications in Ruby and Javascript by using TDD approach and a version control system(Git).
 
-- [Top Online Shop](https://github.com/AnnaKL/Top-Online-Shop): * Online shop application built ionic mobile app framework using Angular.j. Tested in Karma and Protractor.*
+- [Top Online Shop](https://github.com/AnnaKL/Top-Online-Shop): *Online shop application built ionic mobile app framework using Angular.j. Tested in Karma and Protractor.*
 - [Instafun](https://github.com/AnnaKL/instagram-challenge): *Instagram clone application built in Ruby on Rails and tested in Rspec and Capybara*
 - [To do](https://github.com/AnnaKL/todo_challenge): *To do list application built in Angular.js and tested in Karma and Protractor.*
 - [Chitter](https://github.com/AnnaKL/chitter-challenge): *Twitter clone application build in Ruby and Sinatra tested in Rspec and Capybara.*
