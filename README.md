@@ -29,12 +29,12 @@ I’m a committed and engaged team player. I’ve refined these skills with freq
 
 My journey into the world of software development is one of ongoing learning. Following Makers Academy I have continued to explore full stack Javascript and Rails development, and have contributed to a mobile project in Ionic. I regularly attend meetups and events and am committed to becoming the best developer I can be.
 
+
 ## Projects
 
 - [Top Online Shop](https://github.com/AnnaKL/Top-Online-Shop): *Hybrid mobile app build with the Ionic framework, using AngularJS. Tested with Karma and Protractor.*
 - [Instafun](https://github.com/AnnaKL/instagram-challenge): *Instagram clone application built in Ruby on Rails and tested in Rspec and Capybara*
 - [To do](https://github.com/AnnaKL/todo_challenge): *To do list application built in Angular.js and tested in Karma and Protractor.*
-
 
 
 ## Experience
@@ -44,7 +44,6 @@ My journey into the world of software development is one of ongoing learning. Fo
 I learnt to write code in Ruby and Javascript languages whilst implementing key methodologies such as pair programming, SOLID, TDD/BDD, OOD, version control and Agile. I’ve built full stack applications and implemented a wide range of unit and feature testing suites to ensure my code is test-driven.
 The course expose me to the best practices and taught me how to self-learn and look for answers. It also confirmed to me that I love programming and want to do it professionally.
 
-
 #### Spire Healthcare, St John and St Elizabeth Hospital (2013 to 2015)
 *Biomedical Scientist*
 
@@ -53,6 +52,7 @@ The course expose me to the best practices and taught me how to self-learn and l
 
 #### St John and St Elizabeth Hospital (2010 to 2011)
 *Medical Laboratory Assistant*
+
 
 ## Education
 
@@ -68,6 +68,7 @@ The course expose me to the best practices and taught me how to self-learn and l
 #### Wroclaw University, Poland (2004 to 2007)
 
 - BSc - Biology
+
 
 ## Contact
 
