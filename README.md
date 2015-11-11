@@ -1,40 +1,60 @@
 ## Anna Klimas
 
-I'm an enthusiastic and self-driven recent Makers Academy graduate. A hard-working risk taker, who after a successful career as a Biomedical Scientist decided to take a leap of faith and pursue an all time dream to learn to code.
-I'm currently looking for a passionate and creative team with a learning-friendly environment and exciting projects I could contribute to.
+An enthusiastic and self-driven Makers Academy graduate with curiosity about the world of technology. In my previous career as a Biomedical Scientist, I had the pleasure of working in a vibrant team of individuals and learnt the importance of communication, professionalism and dedication in improving patient health and wellbeing. I’m now applying these values to coding, my true passion.
+Currently, I’m looking for a junior position in a creative and fun team where I can continue to learn and contribute to exciting projects.
+
 
 ## Skills
 
-#### Programming
+#### Full Stack Developer
 
-During the 12 weeks at Makers Academy I have been exposed to development best practices and pair-programming, in an environment that nurtured my learning and teamwork skills. I've learned to build front-end and back-end web as well as mobile applications in Ruby and Javascript by using TDD approach and a version control system(Git).
+I’ve learnt how to build full stack web applications across two languages : Ruby (Ruby on Rails) and Javascript(MongoDB, Express, AngularJS, NodeJS).
+I love Ruby for it’s clear syntax and easy to read documentation, which makes it a perfect first language to learn. Rails for convention over configuration, which speeds up the development process, when followed.
+I found Javascript very fun to use and appreciate the consistency it introduces in application architecture, as well as code logic, by allowing you to use the same language on both the client and server-sides.
 
-- [Top Online Shop](https://github.com/AnnaKL/Top-Online-Shop): *Online shop application built in ionic mobile app framework using Angular.j. Tested in Karma and Protractor.*
+
+#### Mobile Developer
+
+I discovered and taught myself Ionic during the last two weeks at Makers Academy, when my team used it to delivered a mobile app as a final project. I love it for how it gives you the ability to build both IOS and Android mobile apps by using just Javascript, HTML and CSS. It allowed me to get a taste of mobile development by applying skills, which I already had.
+
+#### Problem Solver
+
+I enjoy the process of breaking a project into smaller pieces, anticipating potential issues and coming up with strategies to deal with them.
+
+#### Team Player
+
+I’m a committed and engaged team player. I’ve refined these skills with frequent pair programming and regular group project work.
+
+#### Self-led Learner
+
+My journey into the world of software development is one of ongoing learning. Following Makers Academy I have continued to explore full stack Javascript and Rails development, and have contributed to a mobile project in Ionic. I regularly attend meetups and events and am committed to becoming the best developer I can be.
+
+## Projects
+
+- [Top Online Shop](https://github.com/AnnaKL/Top-Online-Shop): *Hybrid mobile app build with the Ionic framework, using AngularJS. Tested with Karma and Protractor.*
 - [Instafun](https://github.com/AnnaKL/instagram-challenge): *Instagram clone application built in Ruby on Rails and tested in Rspec and Capybara*
 - [To do](https://github.com/AnnaKL/todo_challenge): *To do list application built in Angular.js and tested in Karma and Protractor.*
-- [Chitter](https://github.com/AnnaKL/chitter-challenge): *Twitter clone application build in Ruby and Sinatra tested in Rspec and Capybara.*
-
-#### Biomedical Scientist
-
-During my 5 years long career in a medical laboratory I've transitioned from assistant to fully trained HCPC registered Biomedical Scientist.
-
-- Learned a true meaning of commitment , teamwork and psychological resilience while going though a change of the laboratory's owner, building and IT system during the same period of time.
-- Proved to be disciplined and self-driven person during the preparation and by passing the BBTS Specialist Certificate in Transfusion Science Practice exam.
-- Written several annual audits and Health and Safety procedures, which were necessary to pass inspection and gain Clinical Pathology Accreditation CPA.
-- Helped to provide continuous and high quality service to patients.
 
 
-## Education
+
+## Experience
 
 #### Makers Academy (April 2015 to July 2015)
 
-- Highly intensive 12 weeks course focused on nurturing independent learning
-  and problem solving
-- Methodologies: OOP, TDD, SOLID, MVC, DDD, BDD, Agile development and
-  Software Craftsmanship, Pair Programming
-- Languages/Frameworks: Ruby, Sinatra, Rails, Javascript, Angular.js
-- Testing Frameworks: Rspec, Jasmine, Cucumber, Capybara, Karma, Protractor
-- Mobile app development: Ionic, Cordova
+I learnt to write code in Ruby and Javascript languages whilst implementing key methodologies such as pair programming, SOLID, TDD/BDD, OOD, version control and Agile. I’ve built full stack applications and implemented a wide range of unit and feature testing suites to ensure my code is test-driven.
+The course expose me to the best practices and taught me how to self-learn and look for answers. It also confirmed to me that I love programming and want to do it professionally.
+
+
+#### Spire Healthcare, St John and St Elizabeth Hospital (2013 to 2015)
+*Biomedical Scientist*
+
+#### Spire Healthcare, St John and St Elizabeth Hospital  (2011 to 2013)
+*Medical Laboratory Assistant*
+
+#### St John and St Elizabeth Hospital (2010 to 2011)
+*Medical Laboratory Assistant*
+
+## Education
 
 #### Westminster University (2011 to 2012)
 
@@ -48,18 +68,6 @@ During my 5 years long career in a medical laboratory I've transitioned from ass
 #### Wroclaw University, Poland (2004 to 2007)
 
 - BSc - Biology
-
-
-## Experience
-
-**Spire Healthcare, St John and St Elizabeth Hospital** (2013 to 2015)
-*Biomedical Scientist*
-
-**Spire Healthcare, St John and St Elizabeth Hospital** (2011 to 2013)
-*Medical Laboratory Assistant*
-
-**St John and St Elizabeth Hospital** (2010 to 2011)
-*Medical Laboratory Assistant*
 
 ## Contact
 
