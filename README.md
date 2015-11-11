@@ -1,6 +1,7 @@
 ## Anna Klimas
 
 An enthusiastic and self-driven Makers Academy graduate with curiosity about the world of technology. In my previous career as a Biomedical Scientist, I had the pleasure of working in a vibrant team of individuals and learnt the importance of communication, professionalism and dedication in improving patient health and wellbeing. I’m now applying these values to coding, my true passion.
+
 Currently, I’m looking for a junior position in a creative and fun team where I can continue to learn and contribute to exciting projects.
 
 
